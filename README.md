@@ -35,7 +35,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.faysalmourtadi.ml" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.faysalmourtadi.ml-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.faysalmourtadi.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.faysalmourtadi.netlify.app-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/faysalmourtadi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@faysalmourtadi-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/15586667/faysal-mourtadi?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Faysal%20Mourtadi-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:faysalmourtadi98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-faysalmourtadi98@gmail.com-blue?style=flat&logo=gmail"></a>
