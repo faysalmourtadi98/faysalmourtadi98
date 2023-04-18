@@ -2,7 +2,7 @@
  <img width="100px" src="https://avatars.githubusercontent.com/u/82481970?v=4" align="center" alt="Github Readme Stats" />
 </p>
 
-### Hi there 👋 I'm [Faysal Mourtadi](https://anandmainali.com.np)
+### Hi there 👋 I'm [Faysal Mourtadi](https://faysalmourtadi.netlify.app/)
 > FullStack Web Developer at [GreensolutionsMaroc](http://greensolutionsmaroc.com)
 
 
@@ -35,10 +35,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.faysalmourtadi.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.faysalmourtadi.netlify.app-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/faysalmourtadi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@faysalmourtadi-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/faysalmourtadi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Faysal%20Mourtadi-blue?style=flat&logo=twitter"></a>
-<a href="mailto:faysalmourtadi98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-faysalmourtadi98@gmail.com-blue?style=flat&logo=gmail"></a>
+ <a href="https://github.com/faysalmourtadi98" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+ <a href="https://twitter.com/faysalmourtadi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/faysalmourtadi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
