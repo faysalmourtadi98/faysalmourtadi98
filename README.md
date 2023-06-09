@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there 👋 I'm [Faysal Mourtadi](https://faysalmourtadi.netlify.app/)
-> FullStack Web Developer at [GreensolutionsMaroc](http://greensolutionsmaroc.com)
+> FullStack Web Developer at [ECA Assurances](https://eca-assurances.com/)
 
 
 <img src="https://komarev.com/ghpvc/?username=faysalmourtadi98" alt="faysalmourtadi98" />
