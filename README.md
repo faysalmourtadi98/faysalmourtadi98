@@ -1,6 +1,3 @@
-<p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/82481970?v=4" align="center" alt="Github Readme Stats" />
-</p>
 
 ### Hi there 👋 I'm [Faysal Mourtadi](https://faysalmourtadi.netlify.app/)
 > FullStack Web Developer at [ECA Assurances](https://eca-assurances.com/)
